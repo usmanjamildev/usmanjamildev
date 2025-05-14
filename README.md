@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 
-- 🌱 I’m currently learning **HTML|CSS|Bootstrap**
+- 🌱 I’m currently learning **ReactJS|Tailwind**
 
 - 📫 How to reach me **usmanjamil876@gmail.com**
 
