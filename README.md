@@ -3,7 +3,7 @@
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-🌱 I’m currently learning **ReactJS | TailwindCSS**  
+🌱 I’m currently learning **Python | Flask**  
 🔨 Working with **Git & GitHub** for version control  
 📫 How to reach me **usmanjamil876@gmail.com**  
 ⚡ Fun fact **I am funny!**
